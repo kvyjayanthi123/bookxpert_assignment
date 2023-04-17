@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcd1bb60.css",
-    "main.js": "/static/js/main.323d325b.js",
-    "static/media/two-business-partners-working-together-office-computer.jpeg": "/static/media/two-business-partners-working-together-office-computer.69ed8dffd8df7396d13a.jpeg",
-    "static/media/team-meeting-renewable-energy-project.jpeg": "/static/media/team-meeting-renewable-energy-project.82ac5580f67b2d3aa42b.jpeg",
-    "static/media/medium-shot-business-women-high-five.jpeg": "/static/media/medium-shot-business-women-high-five.d65d489802ec0c7d4fd8.jpeg",
-    "static/media/book.png": "/static/media/book.5e53edafccc5b5871256.png",
-    "index.html": "/index.html",
-    "main.dcd1bb60.css.map": "/static/css/main.dcd1bb60.css.map",
-    "main.323d325b.js.map": "/static/js/main.323d325b.js.map"
+    "main.css": "/bookxpert_assignment/static/css/main.dcd1bb60.css",
+    "main.js": "/bookxpert_assignment/static/js/main.51675f32.js",
+    "static/media/two-business-partners-working-together-office-computer.jpeg": "/bookxpert_assignment/static/media/two-business-partners-working-together-office-computer.69ed8dffd8df7396d13a.jpeg",
+    "static/media/team-meeting-renewable-energy-project.jpeg": "/bookxpert_assignment/static/media/team-meeting-renewable-energy-project.82ac5580f67b2d3aa42b.jpeg",
+    "static/media/medium-shot-business-women-high-five.jpeg": "/bookxpert_assignment/static/media/medium-shot-business-women-high-five.d65d489802ec0c7d4fd8.jpeg",
+    "static/media/book.png": "/bookxpert_assignment/static/media/book.5e53edafccc5b5871256.png",
+    "index.html": "/bookxpert_assignment/index.html",
+    "main.dcd1bb60.css.map": "/bookxpert_assignment/static/css/main.dcd1bb60.css.map",
+    "main.51675f32.js.map": "/bookxpert_assignment/static/js/main.51675f32.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd1bb60.css",
-    "static/js/main.323d325b.js"
+    "static/js/main.51675f32.js"
   ]
 }
